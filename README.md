@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on (not sure)
-- 📫 How to reach me: fsshiyi0327@163.com
+- 📫 How to reach me: zwdjudy@gmail.com
 
 <!---
 Judyknown/Judyknown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
