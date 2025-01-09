@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Judyknown
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java and javascript
-- 💞️ I’m looking to collaborate on (not sure)
+- 👀 I’m interested in PDF and software engineer
+- 🌱 I’m using python mostly
+- 💞️ I’m looking to collaborate on more software tools
 - 📫 How to reach me: zwdjudy@gmail.com
 
 <!---
