@@ -3,7 +3,7 @@
 - 🌱 I’m using python mostly
 - 💞️ I’m looking to collaborate on more software tools
 - 📫 How to reach me: zwdjudy@gmail.com
-- 🐶 The avatar is my doggo who’s now living on the starry dog planet.
+- 🐶 The avatar is my doggo, Sie, who’s now living on the starry dog planet.
 
 <!---
 Judyknown/Judyknown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
